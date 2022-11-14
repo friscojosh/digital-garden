@@ -1,2 +1,3 @@
-## Why do you hate crypto so much, Josh?
+## An answer to: "Why do you hate crypto so much, Josh?""
 ---
+Let me be up front on my views: Crypto is a shitshow. It has been since at least 2014, and solid arguments can be made that smart people should have become disillusioned well before then. I think that the vast majority of people currently investing their money in crypto are either charlatans or rubes., and that the share of people that do not fall into these buckets can be measured in [[basis points]].

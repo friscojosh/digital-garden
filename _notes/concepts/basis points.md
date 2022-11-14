@@ -1,0 +1,1 @@
+A basis point is one-hundredth of one percent. Basis points are used mainly in expressing differences of interest rates.

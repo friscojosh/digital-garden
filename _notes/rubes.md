@@ -1,0 +1,1 @@
+A rube is a naive or inexperienced person; a fool. A sucker. A rube can be someone who should know better and convinced themselves of something incorrect. A rube can also be a [[fish]].

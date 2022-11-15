@@ -4,8 +4,7 @@ Many people have asked why I hate crypto. It's a reasonable question. I'm a whit
 
 This digital garden is my partial, but growing answer. It will expand as I add more of my personal notes and research from the past 10 years or so to it. And in the spirit of strong opinions, weakly held, I will question my conclusions when the evidence warrants.
 
----
-As it stands today, the following are my views on crypto.
+### As it stands today, the following are my views on crypto.
 
 I believe crypto is a shitshow. It has been since at least 2014, and solid arguments can be made that smart people should have become disillusioned well before then. I think that the vast majority of people currently investing their money in crypto are either [[charlatans]] or [[rubes]], and that the share of people that do not fall into either of these buckets can be measured in [[basis points]].
 
@@ -17,8 +16,8 @@ On the financial side, I believe the following (click through each for why):
 - The leading lights of crypto have more red flags than a Bachelorette contestant.
 
 Unlike some who might agree with the above, however, I also do not think the blockchain is important:
-- Crypto is not decentralized. In is, in fact, highly centralized.
-- Blackchains solve almost no real world problems. To the extent that blockchain-based solutions can solve a problem, the solutions are inferior and more expensive than what we already have.
+- In practice blockchain based projects are not decentralized. They are, in fact, highly centralized.
+- Blackchains solve almost no real world problems. And to the extent that blockchain-based solutions can solve a problem, the solution is inferior and more expensive than what we already have.
 - Crypto is not secure. Exploits exist that do not require breaking encryption.
 
 Instead of digital money or the next iteration of the web, crypto is best understood as a gambling product filled with grift and fraud. 

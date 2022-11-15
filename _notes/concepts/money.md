@@ -1,4 +1,4 @@
-# Money
+0# Money
 Money is any item or verifiable record that is accepted as payment for goods and services and repayment of debts and payment of national obligations, such as taxes, in a particular jurisdiction. Money is issued by a [central bank](central-banks.md). 
 
 * **Medium of Exchange** - The capacity of an item to expedite trade between a buyer and seller because it is widely accepted as payment for a good and services. 

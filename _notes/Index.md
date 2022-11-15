@@ -25,16 +25,22 @@ Instead of digital money or the next iteration of the web, crypto is best unders
 
 ## But why do you care at all? Get a life.
 ---
-Proponents of crypto make extremely large claims about how crypto will reshape society. I'm a technologist, entrepreneur and a journalist, and the claims largely intersect with my interests. I'm also someone who likes to find the weak points in systems and rules, and then exploit them to my advantage. Some people call this hacking, but to me the label isn't important. What is important is understanding that people like this exist, and they can cause untold damage to society if they behave unethically. 
+Proponents of crypto make extremely large claims about how crypto will reshape money, business, the web, even society. I'm a technologist, entrepreneur and a journalist, and the claims largely intersect with my interests. 
 
-One of the best things the world did was to funnel people, these so-called hackers, into domains where the effects of their hacks are contained. Sports analytics are a good example. Most sports hacks are ethical, while most financial hacks are unethical. It's far better for the world to have people screaming about the efficiency of the corner three versus having them stealing grandma's retirement savings. 
+I'm also interested in systems and rules, where they are weak, and how people might exploit them to their advantage. Some people call this hacking, but the label isn't important. What is important is understanding that people like this exist, and they can cause damage to society if they behave unethically.
 
-Anyway, for these reasons crypto was an absolutely fascinating area of study for me in the early days. But, despite what some insist, it's no longer early. And besides, now I realize what crypto actually is.
+One of the smarter things the world did was to funnel hackers into domains where the effects of their actions are contained and mostly productive. Sports analytics are a good example. Most sports hacks are ethical, while most financial hacks are unethical. It's far better for the world to have people screaming about the efficiency of the corner three versus having them stealing grandma's retirement savings. 
 
-If crypto were honest about what it is, most would find it completely uninteresting. People have enough experience with casinos to know that beating the house in the long run is a fool's dream. Instead they lie (or at the very best they spread their own self-deception). 
+Crypto is our current financial system on meth. It drives people to be the worst, most ethically compromised version of themselves.
 
-Crypto enthusiasts' messaging serves to target the most vulnerable parts of society. [[Problem gamblers]] especially are disproportionately young and disproportionately come from racial and ethnic minorities.  Preying upon addicts and suckers -- also called "retail" investors -- is how crypto gets its liquidity, and the hucksters on social media encourage these marks to join in on the ponzi or risk missing out on a ride to the moon. 
+Early on there were reasons for uncertainty. Reasons to wonder if at least some of crypto's wild promises might actually become reality. But, despite what some insist, it's no longer early. And now I realize what crypto actually is.
 
-Promoters of crypto are financial predators. But even those who merely buy into the con are culpable. You can't opt-out of our current economic system in the United States, despite it's numerous flaws. If you don't pay your taxes in US dollars, you'll go to jail. But no one is forcing you to engage with crypto. It's completely voluntary. I'd prefer more people start making the sharp choice. Because if they do, the grifters and charlatans will fail.
+If crypto people were honest that it's all just a casino masquerading as a movement, most would find it completely uninteresting. People have enough experience with casinos to know that beating the house in the long run is a fool's dream.
 
-Finally, [the Crypto Ponzi Final Boss](https://twitter.com/SBF_FTX/status/1449334296033075201) once came after me in a 13 tweet thread, so I've got some bias toward seeing these clowns fail.
+But instead of telling the truth, or simply keeping their degenerate gambling to themselves, crypto charlatans target the most vulnerable parts of society. [[Problem gamblers]] especially are disproportionately young and disproportionately come from racial and ethnic minorities.  Preying upon addicts and suckers -- also called "retail" investors -- is how crypto gets its liquidity, and the hucksters on social media encourage these marks to join in on the ponzi or risk missing out on a ride to the moon. 
+
+Promoters of crypto are financial predators, and they deserve most of the blame. But even those who merely buy into the con are culpable. You can't opt-out of our current economic system in the United States, despite it's numerous flaws. If you don't pay your taxes in US dollars, you'll go to jail. But no one is forcing you to engage with crypto. It's completely voluntary. I'd prefer more people start making the sharp choice, because if they do, the grifters and charlatans will blow up.
+
+Finally, I should probably mention that [the Crypto Ponzi Final Boss](https://twitter.com/SBF_FTX/status/1449334296033075201) once came after me in a 13 tweet thread, so I've got some bias toward seeing these clowns fail. 
+
+That's why I care.

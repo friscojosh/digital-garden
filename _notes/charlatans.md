@@ -1,1 +1,1 @@
-A charlatan is a fancy word that describes a person falsely claiming to have special knowledge or skills. It's another term for a fraud.
+A charlatan is a person falsely claiming to have special knowledge or skills. It's another term for a fraud.

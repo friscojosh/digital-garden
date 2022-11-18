@@ -1,6 +1,6 @@
 ## Why do you hate crypto so much, Josh?
 ---
-Many people have asked why I hate crypto. It's a reasonable question. I'm a dude who likes technology, sports, poker and other gambling-adjacent hobbies. I'm a bro, but I don't conform
+Many people have asked why I hate crypto. It's a reasonable question. I'm a dude who likes technology, sports, poker and other gambling-adjacent hobbies. I'm a bro, but I don't conform.
 
 This digital garden is my incomplete, but growing answer. It will expand as I add more of my personal notes and research from the past 10 years or so to it. And in the spirit of [[strong opinions, weakly held]], I will question my conclusions when the evidence warrants.
 

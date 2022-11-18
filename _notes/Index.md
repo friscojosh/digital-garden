@@ -9,7 +9,7 @@ I believe crypto is a shitshow. It has been since at least 2014, and solid argum
 People often separate crypto into a couple buckets: the financial side and the technology underpinning things, called blockchain. I will, too.
 
 #### The financialization of everything
-On the financial side, I believe (click through each for why):
+On the financial side, I believe the following (click through each for why, I'll be adding more over time):
 - [[Crypto is an unregulated, feature-incomplete, alternative financial system]]  and like past attempts at creating private money, it will fail due to fraud and speculative bubbles. 
 - [[Bitcoin can't function as a currency]] 
 - Crypto assets are not an inflation hedge.

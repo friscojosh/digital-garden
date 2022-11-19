@@ -6,6 +6,8 @@ From a paper by Deloitte, written in November of 2017:
 
 [https://www2.deloitte.com/us/en/insights/industry/financial-services/evolution-of-blockchain-github-platform.html](https://www2.deloitte.com/us/en/insights/industry/financial-services/evolution-of-blockchain-github-platform.html)
 
+Another article by IT and tech website The Register from 2018 reports that in the international development sector there have been zero reported successes with blockchain initiatives.
+
 > a study of 43 solutions advanced in the international development sector has found exactly no evidence of success.
 
 [https://www.theregister.com/2018/11/30/blockchain_study_finds_0_per_cent_success_rate/](https://www.theregister.com/2018/11/30/blockchain_study_finds_0_per_cent_success_rate/)

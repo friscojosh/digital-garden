@@ -1,6 +1,8 @@
+up:: [[Index]]
+
 Capital control are laws that create friction (a time delay) in capital markets in an attempt to prevent investors from moving their money out of a country during times of financial turmoil.
 
-South Korea is a canonical example in terms of crypto:
+South Korea is a canonical example in terms of crypto. See also [[Kimchi premium]].
 
 > Capital Controls of South Korea
 

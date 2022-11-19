@@ -13,6 +13,7 @@ On the financial side, I believe the following (click through each for why, I'll
 - [[Crypto is an unregulated, feature-incomplete, alternative financial system]]  and like past attempts at creating private money, it will fail due to fraud and speculative bubbles. 
 - [[Bitcoin can't function as a currency]] 
 - Crypto assets are not an inflation hedge.
+- [[Decentralized stablecoins are impossible]].
 - The leading lights of crypto have more red flags than a Bachelorette contestant.
 
 #### A public spreadsheet you can't delete rows from

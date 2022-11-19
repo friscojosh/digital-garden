@@ -1,6 +1,6 @@
 up:: [[Index]]
 
-In Korea, degenerate crypto trading is a massive social problem, particularly among young men. Because of the speculative fervor, prices in Korea were routinely 20 percent higher than other parts of the world. The arbitrage opportunity persisted due to strict reporting requirements for moving money in and out of the country.
+In Korea, degenerate crypto trading is a massive social problem, particularly among young men. Because of the speculative fervor, prices in Korea were routinely 20 percent higher than other parts of the world. The arbitrage opportunity persisted due to [[capital controls]] implemented by South Korea in 2010 after the global financial crisis, along with strict reporting requirements for moving money in and out of the country.
 
 How exactly traders were able to evade those reporting requirements and move money into and out of Korea to effectively arbitrage the market is not fully understood, and probably involved tactics of dubious legality.
 

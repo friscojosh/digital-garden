@@ -1,0 +1,1 @@
+https://datafinnovation.medium.com/decentralized-stablecoins-are-impossible-ec9bdad54bee

@@ -65,7 +65,7 @@ The 30 minute timer resets for this new payment. You decide to doom scroll on Tw
 
 > 🤖 Payment cleared. Your coins have now been released. Allow up to 2 hours for the funds to arrive. Thanks for the trade and good luck out there.
 
-FML. More waiting. More doom scrolling. About a half an hour later you see the transaction appear in your Monero wallet as unconfirmed. Things are looking promising, but you can't spend anything just yet. More waiting. Twitter beckons. So does the abyss.
+More waiting. More doom scrolling. About a half an hour later you see the transaction appear in your Monero wallet as unconfirmed. Things are looking promising, but you can't spend anything just yet. More waiting. Twitter beckons. So does the abyss.
 
 ### Let's buy that thing we were going to buy
 

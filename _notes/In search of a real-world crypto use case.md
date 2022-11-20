@@ -14,11 +14,11 @@ To help alleviate your concerns you [find a service](https://mullvad.net/en/serv
 
 ### Let's buy some crypto
 
-Now you just need to turn your silly fiat dollars into crypto and pay for a few months of service. But there's a problem. You can buy Bitcoin on an exchange like Coinbase, no problem. But Bitcoin is famously public. Anything you buy with Bitcoin is stored on the blockchain for everyone to see, forever. And since you had to go through Know Your Customer onboarding on Coinbase to purchase the Bitcoin, the VPN payment can easily be traced back to you. No bueno.
+Now you just need to turn your silly fiat dollars into crypto and pay for a few months of service. But there's a problem. You can buy Bitcoin on an exchange like Coinbase, no issue. But Bitcoin is famously public. Anything you buy with Bitcoin is stored on the blockchain for everyone to see, forever. And since you had to go through Know Your Customer onboarding on Coinbase to purchase the Bitcoin, the VPN payment can easily be traced back to you. No bueno.
 
 ### Let's buy some other crypto with our crypto
 
-To address this issue, the VPN accepts a truly private crypto currency called Monero. Coinbase doesn't allow you to purchase Monero, however (presumably because US authorities are unable to trace it). So to privately buy this VPN service in a way that doesn;t lead directly back to you, you'll have to buy Bitcoin at Coinbase *and then* convert it to Monero...[somewhere else](https://localmonero.co/). Are you ready to be your own bank? Damn right you are. You buy $100 of Bitcoin through Coinbase and head over to localmonero.co with no "m".
+To address this issue, the VPN accepts a truly private crypto currency called Monero. Coinbase doesn't allow you to purchase Monero, however (presumably because US authorities are unable to trace it). So to privately buy this VPN service in a way that doesn't lead directly back to you, you'll have to buy Bitcoin at Coinbase *and then* convert it to Monero...[somewhere else](https://localmonero.co/). Are you ready to be your own bank? Damn right you are. You buy $100 of Bitcoin through Coinbase and head over to localmonero.co with no "m".
 
 You don't have a VPN you trust yet, and buying a coin that's mainly used for illegal activities directly from another person on the internet is about as risky as it gets. You're breaking no laws, but yikes on bikes. And remember, you have a reason to be paranoid. 
 

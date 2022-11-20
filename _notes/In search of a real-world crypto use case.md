@@ -26,7 +26,7 @@ You don't have a VPN you trust yet, and buying a coin that's mainly used for ill
 
 Luckily, the site allows you to access the marketplace using an [onion address](http://nehdddktmhvqklsnkjqcbpmb63htee2iznpcbs5tgzctipxykpj6yrid.onion/) over the Tor network. So you fire up your Tor browser, input the onion address and...wait. And wait. Tor is very slow. After what feels like minutes, you're asked to solve a captcha because the site says it has been under attack recently. You feel uneasy. 
 
-The site loads and you poke around and find a seller who has turned on the "[arbitration bond](http://nehdddktmhvqklsnkjqcbpmb63htee2iznpcbs5tgzctipxykpj6yrid.onion/nojs/faq#protection)" setting, which helps protect you from the seller stealing your Bitcoin. You place an order for $95 worth of Monero (that's your original $100 less the Coinbase fee) paid for in Bitcoin, which at the time of this writing is 0.00573322 BTC. While you are reading the directions the price of BTC changes and you are asked to confirm the new price.
+The site loads and you poke around and find a seller who has turned on the "[arbitration bond](http://nehdddktmhvqklsnkjqcbpmb63htee2iznpcbs5tgzctipxykpj6yrid.onion/nojs/faq#protection)" setting, which helps protect you from the seller stealing your Bitcoin. You place an order for $95 worth of Monero (that's your original $100 less the Coinbase fee) paid for in Bitcoin, which at the time of this writing is 0.00573322 BTC. While you are reading the directions, the price of BTC changes and you are asked to confirm the new price.
 
 You also note the warning in bright yellow. It says
 
@@ -72,8 +72,6 @@ FML. More waiting. More doom scrolling. About a half an hour later you see the t
 At last, 2 hours after starting this crypto adventure, your wallet informs you that you have .69 (nice) Monero to spend. What were we doing here? Oh, right, we're buying a VPN...which feels like such a let down? With all this tradecraft it would be way cooler if it were stolen Imperial plans.
 
 You head over to Mullvad, open an account, and click on Monero. Mullvad kindly gives you 10% off your purchase for using crypto, which is good because right above it is a cash option that would have been cheaper without the discount. 
-
-![[ksnip_20221119-173352.png]]
 
 You send enough Monero for a year. 
 

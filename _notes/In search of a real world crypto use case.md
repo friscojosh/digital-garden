@@ -2,7 +2,7 @@
 
 Yes.
 
-Let's imagine you are an investigative journalist who needs online privacy due to the sensitive nature of your work. Imagine you're investigating powerful people in the government. Or, if you're of a certain [ideological persuasion](https://www.unqualified-reservations.org/2009/01/gentle-introduction-to-unqualified/#cha-0_footnote-5) and this an uncomfortable fiction, just imagine you are hiding from the state while you wait for it to implode. Either way, strap on your tinfoil hat and let's proceed.
+Let's imagine you are an investigative journalist who needs online privacy due to the sensitive nature of your work. Imagine you're investigating powerful people in the government. Or, if you're of a certain [ideological persuasion](https://www.unqualified-reservations.org/2009/01/gentle-introduction-to-unqualified/#cha-0_footnote-5) and this is an uncomfortable fiction, just imagine you are hiding from the state while you wait for it to implode. Either way, strap on your tinfoil hat and let's proceed.
 
 ### You need a VPN
 

@@ -1,1 +1,0 @@
-Let's imagine you are a journalist. If you are a certain ideological persuasion this will be 

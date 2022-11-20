@@ -42,7 +42,7 @@ Before you do, you notice another message in bright red. It reads:
 
 > Warning: only get the seller's address in this trade chat or from the payment details section on this trade page and do not send payment transaction IDs outside of this trade chat! We also recommend that you keep all communications in this trade chat.
 
-Your ears start to tingle. You're glad you found a seller who uses arbitration bond because all of this feels massively shady. You inform the bot you'll be paying in Bitcoin, and it gives you an address. You copy it, then change your browser tab back to Coinbase. You input $95, watch it get converted to Bitcoin, enter the wallet address you got earlier and hit send. Coinbase alerts you it could take up to 30 minutes for the payment to process.
+Your ears start to tingle. You're glad you found a seller who uses arbitration bond because all of this feels massively shady. You copy the address, then change your browser tab back to Coinbase. You input $95, watch it get converted to Bitcoin, enter the wallet address you got earlier and hit send. Coinbase alerts you it could take up to 30 minutes for the payment to process.
 
 You head back to the Monero exchange site and inform the bot that you've paid. The bot replies
 

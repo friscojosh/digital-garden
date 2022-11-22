@@ -49,7 +49,7 @@ From a paper by Deloitte, written in November of 2017:
 
 [https://www2.deloitte.com/us/en/insights/industry/financial-services/evolution-of-blockchain-github-platform.html](https://www2.deloitte.com/us/en/insights/industry/financial-services/evolution-of-blockchain-github-platform.html)
 
-## 43 blockchain solution were studied in 2018, none succeeded
+## 43 blockchain solutions were studied in 2018, none succeeded
 
 Another article by IT and tech website The Register from 2018 reports that in the international development sector there have been zero reported successes with blockchain initiatives.
 

@@ -18,7 +18,7 @@ On the financial side, I believe the following (click through each for why, I'll
 
 #### A public spreadsheet you can't delete rows from
 Unlike some who might agree with the above, however, I also do not think the blockchain is important:
-- [[92 percent of blockchain projects have been abandoned|Blackchains solve almost no real world problems]]. And to the extent that blockchain-based solutions [[In search of a real world crypto use case|attempt to solve a problem]], [[blockchain is inferior and more expensive]] than what we already have.
+- [[Blackchains solve almost no real world problems]]. And to the extent that blockchain-based solutions [[In search of a real world crypto use case|attempt to solve a problem]], [[blockchain is inferior and more expensive]] than what we already have.
 - In practice blockchain based projects are not decentralized. They are, in fact, highly centralized.
 - Crypto is not secure. Exploits exist that do not require breaking encryption.
 

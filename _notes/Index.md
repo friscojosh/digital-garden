@@ -39,7 +39,7 @@ One of the smarter things the world did was to funnel hackers into domains where
 
 Our current system is bad, but crypto is our financial system on meth. It drives people to be the worst, most ethically compromised version of themselves.
 
-Early on there were legitimate reasons for uncertainty. Reasons to wonder if at least some of crypto's wild promises might actually become reality. But, despite what some in0sist, it's no longer early. And now I realize what crypto actually is.
+Early on there were legitimate reasons for uncertainty. Reasons to wonder if at least some of crypto's wild promises might actually become reality. But, despite what some insist, it's no longer early. And now I realize what crypto actually is.
 
 ### It's a predatory casino
 
